@@ -5,11 +5,11 @@
 :root {
     /* ----------- MidnightMars Base ----------- */
     /* ----- Default Theme --- */
-    --midnightmars-primary: #36263A;
-    --midnightmars-primary-alt: #432e4d;
-    --midnightmars-secondary: #281D30;
-    --midnightmars-secondary-alt: #211828;
-    --midnightmars-tertiary: #1a141f;
+    --midnightmars-primary: #4b4e87;
+    --midnightmars-primary-alt: #8a8fc7;
+    --midnightmars-secondary: #1c2b5e;
+    --midnightmars-secondary-alt: #1c2541;
+    --midnightmars-tertiary:#141a47;
     --midnightmars-modifiers: 168, 113, 182;
     --midnightmars-accent: #9864a3;
     --midnightmars-accent-dark: #895a92;
